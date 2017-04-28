@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CP Update Contact</string>
+
+    <string name="main_activity_actionbar">Contacts list</string>
+
+    <string name="update_activity_actionbar">Update Contact</string>
+    <string name="et_name">Name:</string>
+    <string name="et_mb">Mobile:</string>
+    <string name="et_mb_hint">Enter New No.</string>
+    <string name="update_btn">Update Contact</string>
+
+    <string name="tutorial_txt">Select Contact to Update</string>
+
+    <string name="old_details_heading">Old Details: </string>
+    <string name="new_details_heading">New Details:</string>
+</resources>
